@@ -1,2 +1,2 @@
 # ATLAS
-An intelligent, voice-activated, and text-based digital helper designed to assist users with a variety of tasks on their smartphones. Powered by advanced artificial intelligence.
+A mobile app language translator that enables users to translate speech & text, from one language to another in real-time. It’s designed to bridge communication gaps across different languages, making it an essential app for travelers, professionals, and anyone interacting with a global audience
