@@ -5,3 +5,5 @@ tokenizers
 gdown
 gtts
 gTTS
+whisper
+HuggingFace
