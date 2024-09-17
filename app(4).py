@@ -18,6 +18,13 @@ huggingface_token = os.getenv("HUGGINGFACE_TOKEN")
 # Log in with your Hugging Face API key
 login(huggingface_token)
 
+#New Comment ln 21-26
+from transformers import AutoModel
+model = AutoModel.from_pretrained("CohereForAI/aya-101")
+
+from transformers import TFAutoModel  # For TensorFlow
+model = TFAutoModel.from_pretrained("CohereForAI/aya-101")
+
 # Aya model for translation
 checkpoint = "CohereForAI/aya-101"
 tokenizer = AutoTokenizer.from_pretrained(checkpoint, use_auth_token=huggingface_token)
