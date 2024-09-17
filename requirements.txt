@@ -1,4 +1,6 @@
 streamlit
+streamlit_chat
+streamlit_option_menu
 tokenizers
 whisper
 transformers
