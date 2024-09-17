@@ -4,11 +4,7 @@ transformers
 openai-whisper
 torch
 gtts
-streamlit
 huggingface_hub
 dotenv
-streamlit==1.29.0
-streamlit_chat
 python-dotenv
-streamlit_option_menu
 openai
