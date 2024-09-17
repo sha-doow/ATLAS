@@ -4,6 +4,7 @@ transformers
 openai-whisper
 torch
 gtts
+streamlit
 huggingface_hub
 dotenv
 python-dotenv
