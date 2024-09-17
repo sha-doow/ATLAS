@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from gtts import gTTS
 import whisper, uuid
