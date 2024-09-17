@@ -6,7 +6,7 @@ whisper
 transformers
 openai-whisper
 torch
-gtts
+gTTS
 huggingface_hub
 dotenv
 python-dotenv
