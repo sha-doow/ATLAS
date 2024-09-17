@@ -1,15 +1,13 @@
-python_version >= "3.8"
-streamlit
-streamlit_chat
-streamlit_option_menu
-tokenizers
+# Required version of Python should be handled by environment, not here.
+streamlit==1.38.0
+streamlit_chat==0.1.1
+streamlit_option_menu==0.3.13
+tokenizers==0.20.0
 openai-whisper @ git+https://github.com/openai/whisper.git
-librosa
-ffmpeg
-transformers
+librosa==0.10.2.post1
+ffmpeg==1.4
+transformers==4.44.2
 torch==2.4.0
-gTTS
-huggingface_hub
-dotenv
-python-dotenv
-openai
+gTTS==2.5.3
+huggingface_hub==0.24.7
+python-dotenv==1.0.0  # Updated from dotenv
