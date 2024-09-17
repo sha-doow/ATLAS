@@ -2,10 +2,12 @@ streamlit
 streamlit_chat
 streamlit_option_menu
 tokenizers
-whisper
+whisper @ git+https://github.com/openai/whisper.git
+librosa
+ffmpeg
 transformers
 openai-whisper
-torch
+torch==1.9.0+cpu
 gTTS
 huggingface_hub
 dotenv
